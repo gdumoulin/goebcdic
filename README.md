@@ -1,6 +1,6 @@
 ## GoEBCDIC
 
-A go EBCDIC library tools.
+An EBCDIC go library.
 
 ### Features
 
